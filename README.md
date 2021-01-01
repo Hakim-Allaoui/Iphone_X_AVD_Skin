@@ -1,6 +1,12 @@
-# Skin_IPhone_X
-Change skin of your android emulator!
+## Skin_IPhone_X
+Change skin of your android emulator
+- IPhone X frame
+-  Sided narrow borders
 
-# Extract to
+### Install
+Just Extract to: SDK folder/skins/
 
-sdk folder/skins/
+
+------------
+
+![](https://raw.githubusercontent.com/Hakim-Allaoui/Iphone_X_AVD_Skin/main/Screenshots/Screenshot.png)
